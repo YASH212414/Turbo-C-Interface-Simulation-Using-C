@@ -5,6 +5,11 @@ This project is a demonstration of system programming concepts implemented in C,
 
 Platform - turbo c++
 
+/// Project Note ///
+
+In this project, I implemented the code using the C programming language, but saved the files with a .cpp extension, which is traditionally associated with C++ in Turbo C++. This decision was made to leverage the improved user interface and enhanced functionality provided by Turbo C++ while maintaining compatibility with C code. This approach allowed for better development efficiency and a smoother user experience, given Turbo C++'s superior editor features and debugging capabilities over standard C IDEs.
+
+
 Key Features:
 
 Menu Navigation: The program includes a horizontal menu bar with options such as "File," "Edit," "Search," and more. Users can navigate through these options using arrow keys, highlighting the selected item dynamically.
