@@ -7,7 +7,7 @@ Platform - turbo c++
 
 /// Project Note ///
 
-In this project, I implemented the code using the C programming language, but saved the files with a .cpp extension, which is traditionally associated with C++ in Turbo C++. This decision was made to leverage the improved user interface and enhanced functionality provided by Turbo C++ while maintaining compatibility with C code. This approach allowed for better development efficiency and a smoother user experience, given Turbo C++'s superior editor features and debugging capabilities over standard C IDEs.
+For this project, I wrote the code in C but saved the files with a .cpp extension, which is typically associated with C++ in Turbo C++. This was done to take advantage of Turbo C++'s enhanced user interface, editor features, and debugging tools, while still utilizing the C programming language. This approach improved the overall development experience and increased efficiency without altering the core functionality of the C code.
 
 
 Key Features:
